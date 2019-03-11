@@ -1,0 +1,21 @@
+[
+    {
+        "subject":"hatsune",
+        "international":false,
+        "hwversion":[
+            "2.31.0",
+            "2.30.0"
+        ],
+        "local":{
+            "id":"0"
+        },
+        "online":{
+            "id":"0d2374dd-d93d-4448-9d25-8c5b18bc36a1",
+            "title":{
+                "en_US":"Hatsune",
+                "zh_CN":"初音"
+            },
+            "preview":"file:///android_asset/theme-settings-res/precust_online_theme_hatsune.jpg"
+        }
+    }
+]
